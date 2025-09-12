@@ -4,3 +4,9 @@ Last Name: Jowak
 Gender: Male
 Age: 20
 Contacts: 09922139178
+Birth Of Place: Ambutong Sapal, Sibutu, Tawi-Tawi
+Religion: Roman Catholic
+Father's Name: Jackaria D. Jowak Jr.
+Occupation: Laborer
+Mother's Name: Doreen C. Jowak
+Occupation: Teacher
