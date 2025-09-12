@@ -2,3 +2,6 @@ Elementary: San Vicente Elementary School
 Year Graduated: 2017
 High School: San Vicente National High School
 Year Graduated: 2023
+College: College of Engineering Information Technology
+Program: Bachelor Science in Information Technology
+Year Level: 3rd Year
